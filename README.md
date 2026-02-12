@@ -11,7 +11,7 @@ While this project is definitely a mess, it was my introduction to building real
 ## If you wish to use the program
 
 To open the program, simply clone it and run the main file from a terminal or manually.
-The program is inteneded to be used on systems with 1920x1080 resolution, and was only ever run on a windows machine with decent specs so expect bugs if you choose a different machine.
+The program is intended to be used on systems with 1920x1080 resolution, and was only ever run on a windows machine with decent specs, so expect bugs if you choose a different machine.
 The physics aren't incredible and never reached a point I was happy with, so be prepared for anger if you attempt to actually beat the two levels.
 
 ## Controls + Info
