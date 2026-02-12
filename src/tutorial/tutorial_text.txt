@@ -1,0 +1,71 @@
+Welcome to the Tutorial!
+Use WASD to move and space
+to jump.
+
+If at any point you become
+stuck, press O to restart.
+.
+The grey tile on the floor
+ahead is a freeze tile. Upon
+touching it you will be unable
+to move for 1 second.
+
+Avoid becoming fully trapped in
+it.
+.
+The darker grey tile ahead is
+a teleporter (from) tile. It will 
+teleport you to a nearby
+teleporter (to) tile.
+
+Use a double jump to help cross
+the teleporters.
+.
+Use right click to use your
+grappling hook. The grappling
+hook only works on the wooden
+hookable tiles, and other players.
+
+Try it out here!
+.
+The hook-through tiles, as
+suggested by the name, are able
+to be hooked through.
+
+Use it to cross the gap.
+.
+The red tiles will respawn
+you at the beginning of the
+level if you touch them.
+
+Do not touch them at any cost.
+.
+You can use the grenade launcher
+to give yourself or others a boost.
+You can also cause it to explode
+by hitting it with the bat.
+
+Use the mouse to aim and left
+click to shoot. Use 1 and 2 to
+switch between weapons.
+.
+Press jump right before shooting
+the ground to give you a burst
+of upwards speed!
+
+Use this to climb the wall.
+.
+The tiles shown in the box are
+the start and finish line tiles.
+
+The green one starts the timer 
+and the red one ends it. Try to
+reach the finish line as quick
+as you can.
+.
+Now test what you've learnt and
+complete the level as quickly
+as you can.
+
+Good luck.
+.
